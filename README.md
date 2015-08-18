@@ -1,5 +1,6 @@
 ## rtPanel
-This is a test assignment theme for rtCamp
+This is a test assignment theme for rtCamp.
+#Database
 The Database is Placed in Db Folder. https://github.com/ajmaurya99/rtPanel/tree/master/db
 #PLugin Used.
 I have used various plugins all are from Wordpress repository. 
