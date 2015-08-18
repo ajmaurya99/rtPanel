@@ -1,5 +1,9 @@
 ## rtPanel
 This is a test assignment theme for rtCamp
+PLugin Used.
+I have used various plugins all are from Wordpress repository. 
+Advance Custom Fields- http://www.advancedcustomfields.com/
+Advance Custom Fields Repeater - http://www.advancedcustomfields.com/add-ons/repeater-field/
 ##Site Logo
 The site Logo is managed by Theme Options Page. **Appearance > Theme Logo** default logo appears if logo not selected.
 Refrence Link - http://code.tutsplus.com/articles/how-to-integrate-the-wordpress-media-uploader-in-theme-and-plugin-options--wp-26052
