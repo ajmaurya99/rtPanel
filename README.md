@@ -1,7 +1,7 @@
 ## rtPanel
 This is a test assignment theme for rtCamp
 The Database is Placed in Db Folder. https://github.com/ajmaurya99/rtPanel/tree/master/db
-PLugin Used.
+#PLugin Used.
 I have used various plugins all are from Wordpress repository. 
 Advance Custom Fields- http://www.advancedcustomfields.com/
 Advance Custom Fields Repeater - http://www.advancedcustomfields.com/add-ons/repeater-field/
