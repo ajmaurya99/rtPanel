@@ -29,6 +29,8 @@ Latest 5 posts of news category is shown. and older posts are loaded via the Old
 Plugin used to achieve this-> https://wordpress.org/plugins/ajax-load-more/
 ##Twitter Widget
 Twitter Widget is created via twitter.com widgets.
+Twitter Tweets are noe fetched using https://github.com/j7mbo/twitter-api-php
+and displayed using - https://codex.wordpress.org/Transients_API with an interval of 5 min
 ##Facebook page Plugin
 Facebook Like Box - https://developers.facebook.com/docs/plugins/page-plugin
 ##Weather widget
