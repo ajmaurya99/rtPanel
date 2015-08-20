@@ -40,7 +40,7 @@ if (!preg_match('/[@]/', $string))
 }
 	}
 	
-     set_transient( 'special_query_results', $stringarray, 60 );
+       set_transient( 'special_query_results', $stringarray, 5*60 );
 }
 
 foreach ($stringarray as $tweets) {
