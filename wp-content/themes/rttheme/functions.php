@@ -411,3 +411,5 @@ add_action('init', 'create_sports');
 /* options Page */
 require_once( 'wptuts-options/wptuts-options.php' );
 /* options page ends */
+/* for Twitter */
+require_once( 'inc/index.php' );

@@ -144,8 +144,9 @@ get_header();
                     <div class='col-md-4 ol-sm-4 col-xs-12 border-right'><!-- Twitter Widget -->
                         <div class="headingblock">Latest Tweets</div>
                         <div class="twitter-widget">
-                            <a class="twitter-timeline" href="https://twitter.com/rtCamp" data-widget-id="632893969773391872">Tweets by @rtCamp</a>
-                            <script>!function(d, s, id){var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location)?'http':'https'; if (!d.getElementById(id)){js = d.createElement(s); js.id = id; js.src = p + "://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); }}(document, "script", "twitter-wjs");</script>
+                           <!-- <a class="twitter-timeline" href="https://twitter.com/rtCamp" data-widget-id="632893969773391872">Tweets by @rtCamp</a>
+                            <script>!function(d, s, id){var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location)?'http':'https'; if (!d.getElementById(id)){js = d.createElement(s); js.id = id; js.src = p + "://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); }}(document, "script", "twitter-wjs");</script> -->
+							  <?php tweetlist(); ?>
                         </div>
 
                     </div>
